@@ -28,5 +28,7 @@ Design , diagrams and simple implementation of distributed systems and event dri
 - K8s
 - Kafka
 - RabbitMQ
+- Postgres
+- Mongodb
  
 
