@@ -15,8 +15,8 @@ Design , diagrams and simple implementation of distributed systems and event dri
 - Event sourcing
 - Change data capture
 - 2PL
-- deal Leader / followers database single writer / multiple readers
-- deal with sharding
+- deal with Leader / followers database single writer / multiple readers
+- deal with sharding database
 - Sharded services
 - Replicated load balancer
 - Scatter-Gather
