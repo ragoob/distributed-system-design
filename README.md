@@ -20,6 +20,7 @@ Design , diagrams and simple implementation of distributed systems and event dri
 - Sharded services
 - Replicated load balancer
 - Scatter-Gather
+- Transactional outbox
 
 ## Technologies
 - nodejs
